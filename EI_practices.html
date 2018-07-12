@@ -1,0 +1,98 @@
+<!-- This is a web page displaying the 4 practice trial for Baysian Baby
+     Right click and open with Chrome
+	 Click button label from 1 lto 4 in order to run the four practice trials
+	 show previous arrow and this arrow
+	 add random trials
+//-->
+
+<!doctype html>
+<html lang="en">
+<style>
+body {
+    margin: 1px;
+    text-align: center;
+}
+.container {
+    position: absolute;
+}
+.button1 {
+    position: absolute;
+    top: 19px;
+    left: 1052px;
+}
+.button2 {
+    position: absolute;
+    top: 19px;
+    left: 1072px;
+}
+.button3 {
+    position: absolute;
+    top: 19px;
+    left: 1094px;
+}
+.button4 {
+    position: absolute;
+    top: 19px;
+    left: 1116px;
+}
+</style>
+
+<script>
+	const YR_G = "https://scratch.mit.edu/projects/embed/234928137/?autostart=true";
+	const GYR = "https://scratch.mit.edu/projects/embed/234927912/?autostart=true";
+	const cG = "https://scratch.mit.edu/projects/embed/235151118/?autostart=true";
+	const eR = "https://scratch.mit.edu/projects/embed/235151145/?autostart=true";
+	function setURL(src) {
+		document.getElementById('iframe').src = src;
+	}
+</script>
+
+<head>
+	<title>Practices</title>
+	<link rel="icon" type="image/x-icon" href="images/lightbulb.ico"/>
+</head>
+
+<body>
+<div>
+<!-- <div class="container" > -->
+    <!-- embed Scratch into the webpage
+    	1. YR_G
+    	2. GYR
+    	3. cG
+    	4. eR
+    	// -->
+	<iframe id="iframe"
+      width="1068" height="801"
+	    allowtransparency="true" bgcolor=#F11111
+	    src="https://scratch.mit.edu/projects/embed/234928137/?autostart=true";
+	    frameborder="0" allowfullscreen="true">
+	</iframe>
+
+    <!-- 4 buttons for the four practice trials -->
+	<button
+	    id="b1"
+		onclick="setURL(YR_G)"
+	    class="button1"
+		type="button">1
+	</button>
+	<button
+	    id="b2"
+		onclick="setURL(GYR)"
+	    class="button2"
+		type="button">2
+	</button>
+	<button
+	    id="b3"
+		onclick="setURL(cG)"
+	    class="button3"
+		type="button">3
+	</button>
+	<button
+	    id="b4"
+		onclick="setURL(eR)"
+	    class="button4"
+		type="button">4
+	</button>
+</div>
+</body>
+</html>
