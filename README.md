@@ -1,7 +1,7 @@
 # ‘Explain Intervention’ (EI) Experiment
 
-Meng et al. (2018) - Berkeley Early Learning Lab
-information Theory, causal reasoning, probabilistic models of cognition.
+Meng et al. (2018) Berkeley Early Learning Lab  
+Information Theory, causal reasoning, probabilistic models of cognition.
 
 ## Getting Started
 
