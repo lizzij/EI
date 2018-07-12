@@ -1,7 +1,7 @@
 # ‘Explain Intervention’ (EI) Experiment
 
 Meng et al. (2018) Berkeley Early Learning Lab  
-Keywords: information theory; causal reasoning; probabilistic models of cognition
+Keywords: Bayesian network; information theory; causal reasoning; probabilistic models of cognition
 
 ## Getting Started
 
