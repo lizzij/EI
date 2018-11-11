@@ -3,25 +3,27 @@
 Meng et al. (2018) Berkeley Early Learning Lab  
 Keywords: Bayesian network; information theory; causal reasoning; probabilistic models of cognition
 
-## Getting Started
+## Study
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Why do kids fall short of normativeinformation-theoretic metrics such as the expected information
+gain (EIG)? 
 
-### Prerequisites
+Is this deviation resulted from mixing discriminatory strategies such as maximizing EIG with confirmatory strategies such as the positive test strategy (PTS)?
 
-What things you need to install the software and how to install them:
-Using GoogleSheet API to automate experiment setup by updating the Google sheet automatically after each randomization.
-Use browser to display inherited scratch trials.
+Thirty-nine 5- to -7-year-olds solved 6 puzzles where they had one opportunity to intervene on a three-node causal system to identify the correct structure from two possibilities. 
 
-```
-Give examples
-```
+<img src="https://raw.githubusercontent.com/lizzij/EI/master/eiPuzzles.png" width="500" align="middle">
 
-### Installing
+### Purpose
 
-A step by step series of examples that tell you how to get a development env running
+To set up and automate the experiment:
+* randomize the puzzles according to experiment design
+* display the puzzle and interactive animation in the browser, and
+* record children's response automatically to a Google spreadsheet.
 
-Say what the step will be
+### Installation
+
+Install google spreadsheets python API to manage spreadsheets with gspread in Python.
 
 ```
 $ sudo easy_install pip
@@ -30,62 +32,9 @@ $ sudo easy_install pip
 ```
 $ pip install gspread
 ```
-```
-until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo
+##  Finding
 
-## Running the tests
+Children’s intervention choices were better fit by a Bayesian model that incorporated EIG and PTS compared to alternative models that only considered a single strategy or selected interventions at random. 
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+The paper containing study design and method can be founds [here](http://docs.wixstatic.com/ugd/9f32e5_17b692ec0a54451a98715fba886644d0.pdf).  
