@@ -12,8 +12,10 @@ Is this deviation resulted from mixing discriminatory strategies such as maximiz
 
 Thirty-nine 5- to -7-year-olds solved 6 puzzles where they had one opportunity to intervene on a three-node causal system to identify the correct structure from two possibilities. 
 
-<img src="https://raw.githubusercontent.com/lizzij/EI/master/eiPuzzles.png" width="500" align="middle">
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lizzij/EI/master/eiPuzzles.png" width="500" align="middle">
+<\div>
+  
 ### Purpose
 
 To set up and automate the experiment:
