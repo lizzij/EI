@@ -14,7 +14,7 @@ Thirty-nine 5- to -7-year-olds solved 6 puzzles where they had one opportunity t
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lizzij/EI/master/eiPuzzles.png" width="500" align="middle">
-<\div>
+</div>
   
 ### Purpose
 
