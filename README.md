@@ -5,7 +5,7 @@ Keywords: Bayesian network; information theory; causal reasoning; probabilistic 
 
 ## Study
 
-Why do kids fall short of normativeinformation-theoretic metrics such as the expected information
+Why do kids fall short of normative information-theoretic metrics such as the expected information
 gain (EIG)? 
 
 Is this deviation resulted from mixing discriminatory strategies such as maximizing EIG with confirmatory strategies such as the positive test strategy (PTS)?
