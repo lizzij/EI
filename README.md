@@ -10,7 +10,7 @@ gain (EIG)?
 
 Is this deviation resulted from mixing discriminatory strategies such as maximizing EIG with confirmatory strategies such as the positive test strategy (PTS)?
 
-Thirty-nine 5- to -7-year-olds solved 6 puzzles where they had one opportunity to intervene on a three-node causal system to identify the correct structure from two possibilities. 
+Thirty-nine 5-to-7-year-olds solved 6 puzzles where they had one opportunity to intervene on a three-node causal system to identify the correct structure from two possibilities. 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lizzij/EI/master/eiPuzzles.png" width="500" align="middle">
