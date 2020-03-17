@@ -5,7 +5,7 @@ Keywords: Bayesian network; information theory; causal reasoning; probabilistic 
 
 ## Poster
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lizzij/EI/master/images/poster.png" width="500" align="middle">
+  <img src="https://raw.githubusercontent.com/lizzij/EI/master/images/poster.png" align="middle">
 </div>
 
 ## Study
