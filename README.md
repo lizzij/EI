@@ -8,6 +8,13 @@ Keywords: Bayesian network; information theory; causal reasoning; probabilistic 
   <img src="https://raw.githubusercontent.com/lizzij/EI/master/images/poster.png" align="middle">
 </div>
 
+## Papers
+<object data="https://raw.githubusercontent.com/lizzij/EI/master/images/meng_5_10.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://raw.githubusercontent.com/lizzij/EI/master/images/meng_5_10.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/lizzij/EI/master/images/meng_5_10.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ## Study
 
 Why do kids fall short of normative information-theoretic metrics such as the expected information
