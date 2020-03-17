@@ -3,6 +3,11 @@
 Meng et al. (2018) Berkeley Early Learning Lab  
 Keywords: Bayesian network; information theory; causal reasoning; probabilistic models of cognition
 
+## Poster
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lizzij/EI/master/images/poster.png" width="500" align="middle">
+</div>
+
 ## Study
 
 Why do kids fall short of normative information-theoretic metrics such as the expected information
